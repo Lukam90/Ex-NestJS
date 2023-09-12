@@ -18,9 +18,9 @@ nest g module user
 
 nest g module bookmark
 
+**Docker**
 
-
-
+docker compose up dev-db -d
 
 
 
